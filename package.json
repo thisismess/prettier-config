@@ -1,19 +1,19 @@
 {
-  "name": "@mess/prettier-config",
-  "version": "0.0.1",
-  "description": "Mess's Prettier config",
-  "main": "index.json",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/thisismess/prettier-config.git"
-  },
-  "author": "Jonathan Knoll <jknoll@thisismess.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/thisismess/prettier-config/issues"
-  },
-  "homepage": "https://github.com/thisismess/prettier-config#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+	"name": "@mess/prettier-config",
+	"version": "0.0.3",
+	"description": "Mess's Prettier config",
+	"main": "index.json",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/thisismess/prettier-config.git"
+	},
+	"author": "Jonathan Knoll <jknoll@thisismess.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thisismess/prettier-config/issues"
+	},
+	"homepage": "https://github.com/thisismess/prettier-config#readme",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
 }
